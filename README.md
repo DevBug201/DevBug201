@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="1600" height="529" alt="unnamed" src="https://github.com/user-attachments/assets/aa41c934-c5aa-4c30-9672-325ec22196af" />
+  <img width="1600" height="529" alt="unnamed" src="https://github.com/user-attachments/assets/23e92389-802e-4d07-b994-5c8080b6026b" />
 </div>
 
 ---
@@ -41,7 +41,7 @@
 <table align="center">
   <tr>
     <td align="center" width="220" valign="middle">
-      <img src="https://github.com/user-attachments/assets/8594276e-0d6b-442c-a618-559d2a24cf7b" width="160" alt="Resoluzion 360" />
+      <img src="https://github.com/user-attachments/assets/6deae34b-0410-48fb-89e8-91abfbd69639" width="160" alt="Resoluzion 360" />
     </td>
     <td width="700" valign="middle">
       <h3>Resoluzion 360 &nbsp;&nbsp; <img src="https://img.shields.io/badge/COMPLETADO-2D8F3C?style=for-the-badge&labelColor=0D1117" alt="Completado" /></h3>
@@ -103,7 +103,7 @@
   <tr><td colspan="2"><br></td></tr>
   <tr>
     <td align="center" width="220" valign="middle">
-      <img src="https://github.com/user-attachments/assets/0b6d74b9-5bba-4f2e-9fff-c4e2c1af87f9" width="160" alt="Tudefrigo" />
+      <img src="https://github.com/user-attachments/assets/f9b37174-7e57-4da8-ad98-9a8c5387b6e3" width="160" alt="Tudefrigo" />
     </td>
     <td width="700" valign="middle">
       <h3>Tudefrigo &nbsp;&nbsp; <img src="https://img.shields.io/badge/EN%20CURSO-E63946?style=for-the-badge&labelColor=0D1117" alt="En curso" /></h3>
