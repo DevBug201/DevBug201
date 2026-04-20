@@ -38,7 +38,7 @@
 
 <h3>SMR</h3>
 <h4>— Sistemas Microinformáticos y Redes —</h4>
-<sub>Formación técnica en administración de sistemas, configuración de redes y mantenimiento de infraestructuras informáticas en entornos Windows y Linux.</sub>
+<sub>Formación técnica en administración de sistemas, configuración de redes y mantenimiento en entornos Windows y Linux.</sub>
 <br><br>
 <img src="https://img.shields.io/badge/Configuración%20y%20administración%20de%20redes%20locales%20y%20LAN%2FWAN-E63946?style=for-the-badge&labelColor=0D1117" />
 <img src="https://img.shields.io/badge/Instalación%20y%20mantenimiento%20de%20sistemas%20operativos%20(Windows%20Server%2C%20Linux)-0D1117?style=for-the-badge&labelColor=E63946" />
