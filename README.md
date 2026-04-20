@@ -36,7 +36,8 @@
 
 <div align="center">
 
-<h4>🖥️ SMR — Sistemas Microinformáticos y Redes</h4>
+<h2>SMR</h2>
+<h4>Sistemas Microinformáticos y Redes</h4>
 <sub>Formación técnica en administración de sistemas, configuración de redes y mantenimiento de infraestructuras informáticas en entornos Windows y Linux.</sub>
 <br><br>
 <img src="https://img.shields.io/badge/Configuración%20y%20administración%20de%20redes%20locales%20y%20LAN%2FWAN-E63946?style=for-the-badge&labelColor=0D1117" />
@@ -47,10 +48,11 @@
 <img src="https://img.shields.io/badge/Diagnóstico%20y%20reparación%20de%20hardware%20y%20software-0D1117?style=for-the-badge&labelColor=E63946" />
 <img src="https://img.shields.io/badge/Manejo%20de%20Microsoft%20Office%3A%20Word%2C%20Excel%20y%20Access-E63946?style=for-the-badge&labelColor=0D1117" />
 
-<br><br>
+<br><br><br>
 
-<h4>🌐 DAW — Desarrollo de Aplicaciones Web</h4>
-<sub>Formación en desarrollo web orientada a la construcción de aplicaciones, integración de servicios y despliegue de proyectos.</sub>
+<h2>DAW</h2>
+<h4>Desarrollo de Aplicaciones Web</h4>
+<sub>Formación en desarrollo web orientada a la construcción de aplicaciones, integración de servicios y despliegue de proyectos con criterios de calidad y seguridad.</sub>
 <br><br>
 <img src="https://img.shields.io/badge/Desarrollo%20de%20aplicaciones%20web%20con%20HTML%2C%20CSS%20y%20JavaScript-E63946?style=for-the-badge&labelColor=0D1117" />
 <img src="https://img.shields.io/badge/Programación%20backend%20con%20Python%20y%20gestión%20de%20bases%20de%20datos%20con%20MySQL-0D1117?style=for-the-badge&labelColor=E63946" />
