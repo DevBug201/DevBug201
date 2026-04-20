@@ -39,12 +39,12 @@
 <h4>🖥️ SMR — Sistemas Microinformáticos y Redes</h4>
 <sub>Formación técnica en administración de sistemas, configuración de redes y mantenimiento de infraestructuras informáticas en entornos Windows y Linux.</sub>
 <br><br>
-<img src="https://img.shields.io/badge/Configuración%20y%20administración%20de%20redes%20locales%20y%20LAN%2FWAN-E63946?style=for-the-badge&labelColor=0D1117" /><br><br>
-<img src="https://img.shields.io/badge/Instalación%20y%20mantenimiento%20de%20sistemas%20operativos%20(Windows%20Server%2C%20Linux)-E63946?style=for-the-badge&labelColor=0D1117" /><br><br>
-<img src="https://img.shields.io/badge/Gestión%20de%20servidores%20y%20servicios%20en%20red-E63946?style=for-the-badge&labelColor=0D1117" /><br><br>
-<img src="https://img.shields.io/badge/Seguridad%20básica%20en%20entornos%20empresariales-E63946?style=for-the-badge&labelColor=0D1117" /><br><br>
-<img src="https://img.shields.io/badge/Diagnóstico%20y%20resolución%20de%20incidencias%20técnicas-E63946?style=for-the-badge&labelColor=0D1117" /><br><br>
-<img src="https://img.shields.io/badge/Diagnóstico%20y%20reparación%20de%20hardware%20y%20software-E63946?style=for-the-badge&labelColor=0D1117" /><br><br>
+<img src="https://img.shields.io/badge/Configuración%20y%20administración%20de%20redes%20locales%20y%20LAN%2FWAN-E63946?style=for-the-badge&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/Instalación%20y%20mantenimiento%20de%20sistemas%20operativos%20(Windows%20Server%2C%20Linux)-0D1117?style=for-the-badge&labelColor=E63946" />
+<img src="https://img.shields.io/badge/Gestión%20de%20servidores%20y%20servicios%20en%20red-E63946?style=for-the-badge&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/Seguridad%20básica%20en%20entornos%20empresariales-0D1117?style=for-the-badge&labelColor=E63946" />
+<img src="https://img.shields.io/badge/Diagnóstico%20y%20resolución%20de%20incidencias%20técnicas-E63946?style=for-the-badge&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/Diagnóstico%20y%20reparación%20de%20hardware%20y%20software-0D1117?style=for-the-badge&labelColor=E63946" />
 <img src="https://img.shields.io/badge/Manejo%20de%20Microsoft%20Office%3A%20Word%2C%20Excel%20y%20Access-E63946?style=for-the-badge&labelColor=0D1117" />
 
 <br><br>
@@ -52,10 +52,10 @@
 <h4>🌐 DAW — Desarrollo de Aplicaciones Web</h4>
 <sub>Formación en desarrollo web orientada a la construcción de aplicaciones, integración de servicios y despliegue de proyectos con criterios de calidad y seguridad.</sub>
 <br><br>
-<img src="https://img.shields.io/badge/Desarrollo%20de%20aplicaciones%20web%20con%20HTML%2C%20CSS%20y%20JavaScript-E63946?style=for-the-badge&labelColor=0D1117" /><br><br>
-<img src="https://img.shields.io/badge/Programación%20backend%20con%20Python%20y%20gestión%20de%20bases%20de%20datos%20con%20MySQL-E63946?style=for-the-badge&labelColor=0D1117" /><br><br>
-<img src="https://img.shields.io/badge/Integración%20de%20servicios%20y%20APIs%20REST%20mediante%20JSON%20y%20XML-E63946?style=for-the-badge&labelColor=0D1117" /><br><br>
-<img src="https://img.shields.io/badge/Pruebas%20y%20documentación%20de%20APIs%20con%20Bruno%20y%20Postman-E63946?style=for-the-badge&labelColor=0D1117" /><br><br>
+<img src="https://img.shields.io/badge/Desarrollo%20de%20aplicaciones%20web%20con%20HTML%2C%20CSS%20y%20JavaScript-E63946?style=for-the-badge&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/Programación%20backend%20con%20Python%20y%20gestión%20de%20bases%20de%20datos%20con%20MySQL-0D1117?style=for-the-badge&labelColor=E63946" />
+<img src="https://img.shields.io/badge/Integración%20de%20servicios%20y%20APIs%20REST%20mediante%20JSON%20y%20XML-E63946?style=for-the-badge&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/Pruebas%20de%20APIs%20REST%20con%20Bruno%20y%20Postman%20(GET%2C%20POST%2C%20DELETE)%20y%20consumo%20de%20APIs%20públicas%20con%20Python-0D1117?style=for-the-badge&labelColor=E63946" />
 <img src="https://img.shields.io/badge/Contenerización%20de%20aplicaciones%20con%20Docker%20(básico)-E63946?style=for-the-badge&labelColor=0D1117" />
 
 </div>
