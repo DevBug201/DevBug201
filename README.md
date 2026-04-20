@@ -36,7 +36,7 @@
 
 <div align="center">
 
-<p><strong><font size="30">SMR</font></strong></p>
+<img src="https://img.shields.io/badge/SMR-0D1117?style=for-the-badge&labelColor=0D1117" />
 <h4>— Sistemas Microinformáticos y Redes —</h4>
 <sub>Formación técnica en administración de sistemas, configuración de redes y mantenimiento de infraestructuras informáticas en entornos Windows y Linux.</sub>
 <br><br>
@@ -50,7 +50,7 @@
 
 <br><br><br>
 
-<p><strong><font size="10">DAW</font></strong></p>
+<img src="https://img.shields.io/badge/DAW-0D1117?style=for-the-badge&labelColor=0D1117" />
 <h4>— Desarrollo de Aplicaciones Web —</h4>
 <sub>Formación en desarrollo web orientada a la construcción de aplicaciones, integración de servicios y despliegue de proyectos con criterios de calidad y seguridad.</sub>
 <br><br>
