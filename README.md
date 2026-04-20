@@ -36,7 +36,7 @@
 
 <div align="center">
 
-<p><strong><font size="10">SMR</font></strong></p>
+<p><strong><font size="30">SMR</font></strong></p>
 <h4>— Sistemas Microinformáticos y Redes —</h4>
 <sub>Formación técnica en administración de sistemas, configuración de redes y mantenimiento de infraestructuras informáticas en entornos Windows y Linux.</sub>
 <br><br>
