@@ -50,7 +50,7 @@
 <br><br>
 
 <h4>🌐 DAW — Desarrollo de Aplicaciones Web</h4>
-<sub>Formación en desarrollo web orientada a la construcción de aplicaciones, integración de servicios y despliegue de proyectos con criterios de calidad y seguridad.</sub>
+<sub>Formación en desarrollo web orientada a la construcción de aplicaciones, integración de servicios y despliegue de proyectos.</sub>
 <br><br>
 <img src="https://img.shields.io/badge/Desarrollo%20de%20aplicaciones%20web%20con%20HTML%2C%20CSS%20y%20JavaScript-E63946?style=for-the-badge&labelColor=0D1117" />
 <img src="https://img.shields.io/badge/Programación%20backend%20con%20Python%20y%20gestión%20de%20bases%20de%20datos%20con%20MySQL-0D1117?style=for-the-badge&labelColor=E63946" />
