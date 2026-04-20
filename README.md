@@ -36,7 +36,7 @@
 
 <div align="center">
 
-<h2>SMR</h2>
+<p><strong><font size="6">SMR</font></strong></p>
 <h4>— Sistemas Microinformáticos y Redes —</h4>
 <sub>Formación técnica en administración de sistemas, configuración de redes y mantenimiento de infraestructuras informáticas en entornos Windows y Linux.</sub>
 <br><br>
@@ -50,7 +50,7 @@
 
 <br><br><br>
 
-<h2>DAW</h2>
+<p><strong><font size="6">DAW</font></strong></p>
 <h4>— Desarrollo de Aplicaciones Web —</h4>
 <sub>Formación en desarrollo web orientada a la construcción de aplicaciones, integración de servicios y despliegue de proyectos con criterios de calidad y seguridad.</sub>
 <br><br>
