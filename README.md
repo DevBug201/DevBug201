@@ -32,6 +32,37 @@
 
 </div>
 
+<table align="center">
+  <tr>
+    <td width="920" valign="top">
+      <h4>🖥️ SMR — Sistemas Microinformáticos y Redes</h4>
+      <sub>Formación técnica en administración de sistemas, configuración de redes y mantenimiento de infraestructuras informáticas en entornos Windows y Linux.</sub><br><br>
+      <img src="https://img.shields.io/badge/Configuración%20y%20administración%20de%20redes%20locales%20y%20LAN%2FWAN-E63946?style=flat-square&labelColor=0D1117" /><br>
+      <img src="https://img.shields.io/badge/Instalación%20y%20mantenimiento%20de%20sistemas%20operativos%20(Windows%20Server%2C%20Linux)-E63946?style=flat-square&labelColor=0D1117" /><br>
+      <img src="https://img.shields.io/badge/Gestión%20de%20servidores%20y%20servicios%20en%20red-E63946?style=flat-square&labelColor=0D1117" /><br>
+      <img src="https://img.shields.io/badge/Seguridad%20básica%20en%20entornos%20empresariales-E63946?style=flat-square&labelColor=0D1117" /><br>
+      <img src="https://img.shields.io/badge/Diagnóstico%20y%20resolución%20de%20incidencias%20técnicas-E63946?style=flat-square&labelColor=0D1117" /><br>
+      <img src="https://img.shields.io/badge/Diagnóstico%20y%20reparación%20de%20hardware%20y%20software-E63946?style=flat-square&labelColor=0D1117" /><br>
+      <img src="https://img.shields.io/badge/Manejo%20de%20Microsoft%20Office%3A%20Word%2C%20Excel%20y%20Access-E63946?style=flat-square&labelColor=0D1117" /><br>
+    </td>
+  </tr>
+  <tr><td><br></td></tr>
+  <tr>
+    <td width="920" valign="top">
+      <h4>🌐 DAW — Desarrollo de Aplicaciones Web</h4>
+      <sub>Formación en desarrollo web orientada a la construcción de aplicaciones, integración de servicios y despliegue de proyectos con criterios de calidad y seguridad.</sub><br><br>
+      <img src="https://img.shields.io/badge/Desarrollo%20de%20aplicaciones%20web%20con%20HTML%2C%20CSS%20y%20JavaScript-E63946?style=flat-square&labelColor=0D1117" /><br>
+      <img src="https://img.shields.io/badge/Programación%20backend%20con%20Python%20y%20gestión%20de%20bases%20de%20datos%20con%20MySQL-E63946?style=flat-square&labelColor=0D1117" /><br>
+      <img src="https://img.shields.io/badge/Integración%20de%20servicios%20y%20APIs%20REST%20mediante%20JSON%20y%20XML-E63946?style=flat-square&labelColor=0D1117" /><br>
+      <img src="https://img.shields.io/badge/Pruebas%20y%20documentación%20de%20APIs%20con%20Bruno%20y%20Postman-E63946?style=flat-square&labelColor=0D1117" /><br>
+      <img src="https://img.shields.io/badge/Contenerización%20y%20despliegue%20de%20aplicaciones%20con%20Docker-E63946?style=flat-square&labelColor=0D1117" /><br>
+      <img src="https://img.shields.io/badge/Control%20de%20versiones%20y%20trabajo%20colaborativo%20con%20Git%20y%20GitHub-E63946?style=flat-square&labelColor=0D1117" /><br>
+      <img src="https://img.shields.io/badge/Despliegue%20y%20configuración%20de%20aplicaciones%20en%20servidor-E63946?style=flat-square&labelColor=0D1117" /><br>
+      <img src="https://img.shields.io/badge/Aplicación%20de%20buenas%20prácticas%20en%20rendimiento%20y%20seguridad-E63946?style=flat-square&labelColor=0D1117" /><br>
+    </td>
+  </tr>
+</table>
+
 ---
 
 <h2 align="center">━━━&nbsp;&nbsp;EXPERIENCIA&nbsp;&nbsp;━━━</h2>
