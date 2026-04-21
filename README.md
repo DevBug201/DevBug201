@@ -48,7 +48,7 @@
 <img src="https://img.shields.io/badge/Diagnóstico%20y%20reparación%20de%20hardware%20y%20software-0D1117?style=for-the-badge&labelColor=E63946" />
 <img src="https://img.shields.io/badge/Manejo%20de%20Microsoft%20Office%3A%20Word%2C%20Excel%20y%20Access-E63946?style=for-the-badge&labelColor=0D1117" />
 
-<br><br>
+<br>
 
 <h3>DAW</h3>
 <h4>— Desarrollo de Aplicaciones Web —</h4>
