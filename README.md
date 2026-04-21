@@ -204,8 +204,6 @@
 </p>
 
 <br>
-</div>
-
 
 <div align="center">
   <img src="https://img.shields.io/badge/%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80-0D1117?style=for-the-badge" alt="Separador" />
@@ -218,7 +216,7 @@
   <a href="https://devbug201.github.io/devblog/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Ver%20sitio-devbug201.github.io%2Fdevblog-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="Ver DevBlog" />
   </a>
-
+</div>
 
 <p align="center">
   <code><b>DevBlog</b>: portal de noticias de ciberseguridad e IA.</code>
@@ -229,10 +227,8 @@
 <h2 align="center">━━━&nbsp;&nbsp;ESTADÍSTICAS&nbsp;&nbsp;━━━</h2>
 
 <div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=DevBug201&show_icons=true&hide=prs,issues,contribs,rank&hide_border=true&bg_color=0D1117&title_color=F5F2EC&text_color=F5F2EC&icon_color=E63946&card_width=380" alt="Estadísticas de GitHub" />
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=DevBug201&hide_border=true&background=0D1117&stroke=E63946&ring=E63946&fire=E63946&currStreakLabel=F5F2EC&currStreakNum=F5F2EC&sideNums=F5F2EC&sideLabels=F5F2EC&dates=F5F2EC&card_width=380" alt="Racha de GitHub" />
-
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=DevBug201&show_icons=true&hide=prs,issues,contribs,rank&hide_border=true&bg_color=0D1117&title_color=F5F2EC&text_color=F5F2EC&icon_color=E63946&card_width=380" alt="Estadísticas de GitHub" />
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=DevBug201&hide_border=true&background=0D1117&stroke=E63946&ring=E63946&fire=E63946&currStreakLabel=F5F2EC&currStreakNum=F5F2EC&sideNums=F5F2EC&sideLabels=F5F2EC&dates=F5F2EC&card_width=380" alt="Racha de GitHub" />
 </div>
 
 ---
