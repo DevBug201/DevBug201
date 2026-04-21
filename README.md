@@ -211,6 +211,8 @@
   <img src="https://img.shields.io/badge/%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80-0D1117?style=for-the-badge" alt="Separador" />
 </div>
 
+<br>
+
 <div align="center">
   <img src="https://img.shields.io/badge/Proyecto%20publicado-DevBlog-E63946?style=for-the-badge&labelColor=0D1117" alt="DevBlog" />
   <a href="https://devbug201.github.io/devblog/" target="_blank" rel="noopener noreferrer">
