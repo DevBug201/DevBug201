@@ -212,6 +212,11 @@
   </a>
 </div>
 
+
+<div align="center">
+  <img src="https://img.shields.io/badge/%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80-0D1117?style=for-the-badge" alt="Separador" />
+</div>
+
 <p align="center">
   <code><b>DevBlog</b>: portal de noticias de ciberseguridad e IA.</code>
 </p>
