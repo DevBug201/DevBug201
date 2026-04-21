@@ -92,41 +92,41 @@
         <br>
         <h4>Proyecto 1</h4>
         <p><b>Original</b></p>
-        <a href="https://youtu.be/wxfW1QKp_Hw" target="_blank">
+        <a href="https://youtu.be/wxfW1QKp_Hw" target="_blank" rel="noopener noreferrer">
           <img src="https://img.youtube.com/vi/wxfW1QKp_Hw/maxresdefault.jpg" width="480" alt="Ver diseño original" />
         </a>
         <p><b>Mi versión</b></p>
-        <a href="https://youtu.be/fC_LEMmibcE" target="_blank">
+        <a href="https://youtu.be/fC_LEMmibcE" target="_blank" rel="noopener noreferrer">
           <img src="https://img.youtube.com/vi/fC_LEMmibcE/maxresdefault.jpg" width="480" alt="Ver mi versión" />
         </a>
         <br><br>
         <h4>Proyecto 2</h4>
         <p><b>Original</b></p>
-        <a href="https://youtu.be/ARiuoVQ4XHQ" target="_blank">
+        <a href="https://youtu.be/ARiuoVQ4XHQ" target="_blank" rel="noopener noreferrer">
           <img src="https://img.youtube.com/vi/ARiuoVQ4XHQ/maxresdefault.jpg" width="480" alt="Ver diseño original" />
         </a>
         <p><b>Mi versión</b></p>
-        <a href="https://youtu.be/wneRAY_F-3I" target="_blank">
+        <a href="https://youtu.be/wneRAY_F-3I" target="_blank" rel="noopener noreferrer">
           <img src="https://img.youtube.com/vi/wneRAY_F-3I/maxresdefault.jpg" width="480" alt="Ver mi versión" />
         </a>
         <br><br>
         <h4>Proyecto 3</h4>
         <p><b>Original</b></p>
-        <a href="https://youtu.be/IFN1jdyVLUI" target="_blank">
+        <a href="https://youtu.be/IFN1jdyVLUI" target="_blank" rel="noopener noreferrer">
           <img src="https://img.youtube.com/vi/IFN1jdyVLUI/maxresdefault.jpg" width="480" alt="Ver diseño original" />
         </a>
         <p><b>Mi versión</b></p>
-        <a href="https://youtu.be/HN0g6ZN-jAE" target="_blank">
+        <a href="https://youtu.be/HN0g6ZN-jAE" target="_blank" rel="noopener noreferrer">
           <img src="https://img.youtube.com/vi/HN0g6ZN-jAE/maxresdefault.jpg" width="480" alt="Ver mi versión" />
         </a>
         <br><br>
         <h4>Proyecto 4</h4>
         <p><b>Original</b></p>
-        <a href="https://youtu.be/UsZxzP015sg" target="_blank">
+        <a href="https://youtu.be/UsZxzP015sg" target="_blank" rel="noopener noreferrer">
           <img src="https://img.youtube.com/vi/UsZxzP015sg/maxresdefault.jpg" width="480" alt="Ver diseño original" />
         </a>
         <p><b>Mi versión</b></p>
-        <a href="https://youtu.be/F_ZpDW6GJos" target="_blank">
+        <a href="https://youtu.be/F_ZpDW6GJos" target="_blank" rel="noopener noreferrer">
           <img src="https://img.youtube.com/vi/F_ZpDW6GJos/maxresdefault.jpg" width="480" alt="Ver mi versión" />
         </a>
       </details>
@@ -193,8 +193,21 @@
 <br>
 
 <div align="center">
+  <img src="https://img.shields.io/badge/Proyecto%20publicado-Portfolio-E63946?style=for-the-badge&labelColor=0D1117" alt="Portfolio" />
+  <a href="https://devbug201.github.io/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Ver%20sitio-devbug201.github.io-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="Ver Portfolio" />
+  </a>
+</div>
+
+<p align="center">
+  <code><b>Portfolio</b>: hub principal donde presento mis proyectos públicos.</code>
+</p>
+
+<br>
+
+<div align="center">
   <img src="https://img.shields.io/badge/Proyecto%20publicado-DevBlog-E63946?style=for-the-badge&labelColor=0D1117" alt="DevBlog" />
-  <a href="https://devbug201.github.io/devblog/" target="_blank">
+  <a href="https://devbug201.github.io/devblog/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Ver%20sitio-devbug201.github.io%2Fdevblog-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="Ver DevBlog" />
   </a>
 </div>
@@ -225,8 +238,8 @@
 
 <div align="center">
   <a href="mailto:tu-email@example.com"><img src="https://img.shields.io/badge/Email-E63946?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117" alt="Email" /></a>
-  <a href="https://www.linkedin.com/in/carlos-bayarri-hernandez" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="PEGA_AQUI_TU_URL_DE_X" target="_blank"><img src="https://img.shields.io/badge/-0D1117?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
+  <a href="https://www.linkedin.com/in/carlos-bayarri-hernandez" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="PEGA_AQUI_TU_URL_DE_X" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-0D1117?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
 </div>
 
 ---
